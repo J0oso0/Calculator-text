@@ -1,2 +1,2 @@
-# Calculator-text.py
+# Calculator-text
 Simple Calculator text based
